@@ -1,0 +1,10 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    "files.exclude": {
+        "client/**/*.js": true,
+        "client/**/*.map": true,
+        "server/**/*.js": true,
+        "server/**/*.map": true,        
+        "**/.DS_Store": true
+    }
+}
